@@ -9,7 +9,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
 ![Repos](https://img.shields.io/badge/RECURSOS-161%2B-blue?style=flat-square&labelColor=black)
-![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
+![Categorías](https://img.shields.io/badge/CATEGORÍAS-9-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
 </div>
@@ -37,6 +37,7 @@ Cada repositorio ha sido seleccionado porque:
 - [📚 Aprendizaje y Práctica](#-aprendizaje-y-práctica)
 - [🔧 Herramientas y Recursos](#-herramientas-y-recursos)
 - [🎙️ Comunidad y Otros](#️-comunidad-y-otros)
+- [📖 Guías hechas por mí](#-guías-hechas-por-mí)
 
 ---
 
@@ -281,6 +282,33 @@ Recursos sobre cultura dev, la línea de comandos, plugins esenciales y más.
 | [hackerkid/bots](https://github.com/hackerkid/bots) | Herramientas, frameworks y recursos para construir bots en distintas plataformas: Slack, Telegram, Discord y más. |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Domina la línea de comandos en una sola página. El recurso definitivo de terminal que todo dev debería leer al menos una vez. |
 | [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | Lista curada de las mejores aplicaciones de línea de comandos para desarrolladores: productividad, visualización y más. |
+
+---
+
+## 📖 Guías hechas por mí
+
+Guías en PDF que he creado yo misma sobre IA, agentes, Claude Code y desarrollo de software.
+
+| Guía | Tema |
+|------|------|
+| [Guía de microservicios](https://drive.google.com/file/d/1pwxXeqICBF8BiqfuiXDccmHCJrCUeuGp/view?usp=sharing) | Arquitectura de microservicios. |
+| [Guía de IA en local](https://drive.google.com/file/d/1JoADNeoT-6z2BNKWpyrH05VI7-pXSXPw/view?usp=sharing) | Cómo ejecutar modelos de IA en tu propio ordenador. |
+| [Guía completa de Agent Reach](https://drive.google.com/file/d/1YSSlA5dsxt5GI-1dkHzO_WQET7dBGpCG/view?usp=sharing) | Guía completa de Agent Reach. |
+| [3 tareas que todo programador debería automatizar](https://drive.google.com/file/d/1HSm7a3Hq3YDAzS-k16p0W3-VTVxewSWn/view?usp=sharing) | Automatización de tareas repetitivas del día a día como programador. |
+| [Guía de IA y Sourcegraph](https://drive.google.com/file/d/15d-ptHja_nCqhpAwZc1SPqslug29UxQ5/view?usp=sharing) | Búsqueda y comprensión de código con IA y Sourcegraph. |
+| [Guía de Procedural Film](https://drive.google.com/file/d/1SFjhHDuNhpMNz2GE-XJBWBXzxDpTR8y1/view?usp=sharing) | Películas animadas generadas con código. |
+| [Guía de Spec Kit – Día 1](https://drive.google.com/file/d/1z-5Omhr4-eQXc4RV1-qgBeGsMB_9_UQK/view?usp=sharing) | Primeros pasos con Spec Kit y el desarrollo basado en especificaciones. |
+| [Hermes Desktop: setup completo en Windows con OpenRouter](https://drive.google.com/file/d/1zOzKspI-P6aWFOWiDDrIQHHDJQIW04L2/view?usp=sharing) | Instalación y configuración de Hermes Desktop en Windows usando OpenRouter. |
+| [Roadmap: de ver código a construir agentes de IA](https://drive.google.com/file/d/1nvymDCumIH8eve_j_ieNZmlVUP3iphn4/view?usp=sharing) | Ruta de aprendizaje para pasar de leer código a construir agentes de IA. |
+| [Guía del settings.json de Claude Code](https://drive.google.com/file/d/10caymib--b6xnIow67mC58gCknuHDzgS/view?usp=sharing) | Configuración de Claude Code mediante `settings.json`. |
+| [Plantilla: estructura de un agente de IA](https://drive.google.com/file/d/1oKziHUoQHbdVrlyGD-NpdTkxfLuVThKy/view?usp=sharing) | Plantilla para estructurar un agente de IA. |
+| [Guía de AI Gateway: LiteLLM y OmniRoute](https://drive.google.com/file/d/1PSkLITPKYgMhKDxKs1tiiHil6AG50in9/view?usp=sharing) | Gateways de IA para enrutar peticiones entre modelos con LiteLLM y OmniRoute. |
+| [Guía de AI Job Search](https://drive.google.com/file/d/1gk0MCQW7HNo7fJTzgpTS0RSxE_ShfqJb/view?usp=sharing) | Búsqueda de empleo con IA. |
+| [Estrategia de contenido con Claude](https://drive.google.com/file/d/1gx0F_8vaHdYPT_v4CxUyXp6UsbZndi4c/view?usp=sharing) | Cómo planificar tu estrategia de contenido con Claude. |
+| [Prompt para un dashboard con Windsor.ai](https://drive.google.com/file/d/1rGYJ-Mtb0LBGSeq9ucr0mWyWmXFjQkui/view?usp=sharing) | Prompt para crear un dashboard de métricas con Windsor.ai. |
+| [El playbook del fundador](https://drive.google.com/file/d/1bx3Pk-qjtMh5xpxn5zwl5lbWeRufxmPF/view?usp=sharing) | Playbook para fundadores. |
+| [El playbook del SDLC nativo de IA](https://drive.google.com/file/d/11o65ZJGV6vxqf3OOBnCovS4lD3B4LkMJ/view?usp=sharing) | El ciclo de vida del desarrollo de software rediseñado con IA. |
+| [Orquestación secuencial en Claude Code](https://drive.google.com/file/d/1XKlWqjmQw4DX7trmPdoYDaMdq_AFscOC/view?usp=sharing) | Cómo encadenar tareas y agentes de forma secuencial en Claude Code. |
 
 ---
 
